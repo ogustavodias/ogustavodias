@@ -1,6 +1,7 @@
 ### Olá, seja bem vindo ao meu GitHub 👋
 
-- 📚 Atualmente focado em me aprimorar na stack de desenvolvimento front end, mas almejo alcançar proficiência também no back end e me tornar full stack.
+- 📘 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi. 
+- 📚 Atualmente, estou concentrado em aprimorar minhas habilidades na stack de desenvolvimento front-end, mas tenho a ambição de alcançar proficiência no back-end, aspirando tornar-me um desenvolvedor full-stack.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-dev-front&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-dev-front&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
