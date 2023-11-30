@@ -2,7 +2,7 @@
 
 ATUALMENTE
 - 📘 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi. 
-- 📚 Foco atual: Me aprofundando em React e WordPress como CMS.
+- 📚 Me aprofundando em React e WordPress como CMS.
 
 CONHECIMENTOS:
 - Front end development (HTML, CSS, JavaScript e React).
