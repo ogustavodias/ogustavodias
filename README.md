@@ -1,7 +1,14 @@
 ### Olá, seja bem vindo ao meu GitHub 👋
 
+ATUALMENTE
 - 📘 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi. 
-- 📚 Atualmente, estou concentrado em aprimorar minhas habilidades na stack de desenvolvimento front-end, mas tenho a ambição de alcançar proficiência no back-end, aspirando tornar-me um desenvolvedor full-stack.
+- 📚 Foco atual: Me aprofundando em React e WordPress como CMS.
+
+CONHECIMENTOS:
+- Front end development (HTML, CSS, JavaScript e React).
+- CMS (WordPress).
+- Java ** por hora, apenas conhecimento básico adquirido na gradução, mas pretendo dar continuidade no estudo da linguagem.
+- SQL.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavo-dev-front&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-dev-front&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
