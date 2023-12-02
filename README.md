@@ -7,7 +7,6 @@ ATUALMENTE
 CONHECIMENTOS:
 - Front end development (HTML, CSS, JavaScript e React).
 - Versionamento com GIT.
-- CMS (WordPress).
 - Java ** por hora, apenas conhecimento básico adquirido na gradução, mas pretendo dar continuidade no estudo da linguagem.
 - SQL.
 
