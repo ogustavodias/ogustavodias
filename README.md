@@ -1,4 +1,4 @@
-### Olá, seja bem vindo ao meu GitHub 👋
+### Olá, seja bem vindo(a) ao meu GitHub 👋
 
 ATUALMENTE
 - 📘 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
