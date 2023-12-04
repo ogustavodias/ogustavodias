@@ -1,8 +1,9 @@
 ### Olá, seja bem vindo ao meu GitHub 👋
 
 ATUALMENTE
-- 📘 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi. 
-- 📚 Me aprofundando em React.
+- 📘 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
+- 💻 Última tecnologia aprendida: ReactJS.
+- 📚 No momento cursando Desenvolvimento Full Stack Java pela EBAC. 
 
 CONHECIMENTOS:
 - Front end development (HTML, CSS, JavaScript e React).
