@@ -6,7 +6,7 @@ ATUALMENTE
 - 📚 No momento cursando Desenvolvimento Full Stack Java pela EBAC. 
 
 CONHECIMENTOS:
-- Front end development (HTML, CSS, JavaScript, React, Bootstrap e jQuery).
+- Front end development: HTML, CSS, JavaScript, React, Bootstrap, jQuery ...
 - Versionamento com GIT.
 - Java ** por hora, apenas conhecimento básico adquirido na gradução, mas pretendo dar continuidade no estudo da linguagem.
 - SQL.
