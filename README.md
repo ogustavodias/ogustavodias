@@ -6,7 +6,7 @@ ATUALMENTE
 - 📚 No momento cursando Desenvolvimento Full Stack Java pela EBAC. 
 
 CONHECIMENTOS:
-- Front end development (HTML, CSS, JavaScript e React).
+- Front end development (HTML, CSS, JavaScript, React, Bootstrap e jQuery).
 - Versionamento com GIT.
 - Java ** por hora, apenas conhecimento básico adquirido na gradução, mas pretendo dar continuidade no estudo da linguagem.
 - SQL.
@@ -20,6 +20,7 @@ CONHECIMENTOS:
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">  
 </div>
 
