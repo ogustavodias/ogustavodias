@@ -12,6 +12,8 @@ CONHECIMENTOS:
 - SQL.
 
 <img align="center" alt="HTML" height="157" src="https://github-readme-stats.vercel.app/api?username=ogustavodias&show_icons=true&theme=dracula&rank_icon=github">
+<img align="center" alt="HTML" height="157" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavodias&hide_progress=true&theme=dracula">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ogustavodias&show_icons=true&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavodias&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
