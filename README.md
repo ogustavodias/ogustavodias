@@ -2,7 +2,7 @@
 
 ATUALMENTE
 - 📘 Graduado em Análise e Desenvolvimento de Sistemas pela Universidade Anhembi Morumbi.
-- 💻 Última tecnologia aprendida: VueJS.
+- 💻 Última tecnologia aprendida: Redux.
 - 📚 No momento cursando Desenvolvimento Full Stack Java pela EBAC. 
 
 CONHECIMENTOS:
